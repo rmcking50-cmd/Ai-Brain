@@ -1,0 +1,10 @@
+{
+  "name": "Remix: GNN Studio AI Video News \u0026 Social Automation",
+  "description": "An AI-powered dashboard for professional video generation, news script editing, social media scheduling, voice-over text-to-speech, and automatic caption editing with performance analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
